@@ -1,5 +1,3 @@
-import time
-
 class Websites:
     def __init__(self, webpageName):
         self.webpageName = webpageName
